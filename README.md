@@ -1,2 +1,2 @@
 # AstreaIT
-its for demo purpose
+its for demo purpose and i am comfertable to read and write code of demo respository
